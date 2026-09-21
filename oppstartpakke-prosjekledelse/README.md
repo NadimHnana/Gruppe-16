@@ -23,6 +23,15 @@ en mulig aktivitet er at hver deltaker presenterer sin egen “personlige bruksa
 avsluttningsvis bør møtet oppsumere de viktigste beslutningene, avklare neste steg og etablere faste kommunikasjonsrutiner. dette git gruppen en tydelig retning videre og bidrar til at alle forlater mltete med samme forståelde av prosjektets mål og forventninger. ved å 
 kombinere faglige avklaringer med relasjonsbyggende aktiviteter kan Erling legge et solid grunnlag for samarbeid, tillit og effektiv gjennomføring.
 
+## 3. Rammer for relasjoneller kontrakter   
+I Erlings prosjekt bør mandatet ikke bare fastsette prosjektets tid, kostnad og kvalitet (Jacobsen, 2016), men også tydliggjøre hvordan samarbeidet mellom Erling som prosjektleder og kommunen som prosjekteier skal foregå. Dette er særlig viktig fordi prosjektet er tidsavgenset, tværrfaglig og innebærer usikekrhet knyttet til utviklingen av en ny digital løsning. Relasjonelle forhold som tillit, åpen kommunikasjon, samarbeid og felles mål kan ha betydning for hvordan prosjektet håndterer utfordringer underveis.
+
+det anbefales derfor at mandatet inneholder konkrete rammer for samarbeidet mellom Erling og prosjekteier. For det føret bør det fastsettes faste statusmøter, for eksempel en gang i måneden hvor fremdrift, økonomi, risiko og eventuelle utfordringer diskuteres. på denne måten får prosjekteier nødvendig oversikt, samtidig som Erling får muligheten til å ta opp problemer før de utvikler seg. For det andre bør mandatet tydliggjøre hvilket handlingsrom Erling har. Han bør kunne ta beslutninger innenfor det avtalte budsjettet og prosjektets mål uten å måtte få godkjenning fra bystyret for mindre endringer. Større endringer i budsjett, tidsplan eller prosjektets mål bør derimot avklares med prosjekteier. 
+
+Videre bør mandatet beskrive hvordan uenigheter skal håndteres. Dersom Erling og prosjektleder her ulike syn på prosjektets retning, bør dette først tas opp gjennom dialog og vurdering av prosjektets felles mål, framfor at uenigheten utvikler seg til en konflikt. Det bør også være tydelig hvem som har det endelige besluttningsansvaret dersom partene ikke blir enig. En slik avklaring kan redusere usikkerhet og samtidig gi Erling tilstrekkelig handlinger til å lade prosjektet.
+
+Til slutt bør mandatet inneholde en felles forståelse av at uforutsette utfordringer kan oppstå, og at partene skal samarbeide om å finne løsninger fremfor å plassere skyld. dette tyder på at tradisjonelle kontrakter ikke alltid er tilstrekkelige til å dekke alle framtidige situasjoner, og at tillit og samarbeid derfor kan fungere som viktige supplementer til de formelle kontrollmekanismene i mandatet 
+
 ## kidler:
 
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
