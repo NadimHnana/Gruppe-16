@@ -1,4 +1,4 @@
-Del 4: Proaktive mekanismer for konflikthåndtering
+##4: Proaktive mekanismer for konflikthåndtering
 
 Selv med et grundig oppstartsmøte og etablerte samarbeidsregler, vil konflikter oppstå i heterogene team som Erlings. Årsaken er at faggrupper med ulike perspektiver naturlig sett kan ha motstridende syn på prioriteringer, arbeidsprosesser og løsninger. For at team skal kunne håndtere dette konstruktivt, må Erling etablere proaktive mekanismer som identifiserer og håndterer uenigheter tidlig – før de blir destruktive og hemmer samarbeidet.
 
@@ -14,7 +14,7 @@ Tredje: Etabler tilbakemeldingsmekanismer gjennom korte anonyme spørreundersøk
 
 Hvorfor dette virker: Teamet har allerede gjort pseudo-arbeid og dele personlige bruksanvisninger. Dette har bygget tillit. Nå dreier det seg om å vedlikeholde tilliten ved å håndtere konflikter åpent, ikke hemlig. Edmondson (1999) viser at team med høy "psykologisk sikkerhet" tør å si ifra når noe ikke fungerer – og derfor løser de problemer raskere.
 
-Del 5: Håndtering av tidspress og "planleggingsfellen"
+##5: Håndtering av tidspress og "planleggingsfellen"
 
 Erling møter et sterkt handlingspress fra starten: bystyret vil resultater, innbyggerne venter på portalen, og budsjettets tidsavgrenset. Dette presset kan lett få ham til å kaste seg på oppgavene før teamet er klart – det som kan kalles "planleggingsfellen" (Flyvbjerg & Budzier, 2011).
 
@@ -30,11 +30,11 @@ Tredje: Prioriter relasjonell styrke over rask levering. Det sterke presset fra 
 
 Fjerde: Sett av tid til læring underveis. Erlings team er heterogent og deler fagkulturer. IT-folk og innbyggerrepresentanter forstår hverandre ikke automatisk. Regelmessige retrospektiver (hver andre uke) sikrer at teamet lærer sammen, justerer arbeidsmåter og ikke blir låst fast i uproduktive mønstre.
 
-Del 6: Sikring av god kommunikasjon
+##6: Sikring av god kommunikasjon
 
 Kommunikasjon er limet som holder heterogene team sammen. Erlings oppstartsmøte ga teamet faste kommunikasjonsrutiner, men for å opprettholde god kommunikasjon gjennom hele prosjektet trenger Erling både struktur og åpenhet.
 
-Møte- og kommunikasjonsstruktur:
+Møte og kommunikasjonsstruktur:
 
 Erling bør etablere tre nivåer av kommunikasjon:
 
