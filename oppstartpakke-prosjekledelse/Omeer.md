@@ -30,33 +30,6 @@ Tredje: Prioriter relasjonell styrke over rask levering. Det sterke presset fra 
 
 Fjerde: Sett av tid til læring underveis. Erlings team er heterogent og deler fagkulturer. IT-folk og innbyggerrepresentanter forstår hverandre ikke automatisk. Regelmessige retrospektiver (hver andre uke) sikrer at teamet lærer sammen, justerer arbeidsmåter og ikke blir låst fast i uproduktive mønstre.
 
-## 6: Sikring av god kommunikasjon
-
-Kommunikasjon er limet som holder heterogene team sammen. Erlings oppstartsmøte ga teamet faste kommunikasjonsrutiner, men for å opprettholde god kommunikasjon gjennom hele prosjektet trenger Erling både struktur og åpenhet.
-
-Møte og kommunikasjonsstruktur:
-
-Erling bør etablere tre nivåer av kommunikasjon:
-
-Ukentlige synk-møter (15-20 minutter): Hva jobber alle med? Hvor er det blokkering? Formål: å holde alle oppdatert og identifisere problemer raskt.
-Bi-ukentlige dybdemøter (90 minutter): Faglige diskusjoner, avgjørelser, retrospektiver. Her drøftes ulike fagfelts perspektiver, og konflikter løses. Dette møtet sikrer at den heterogene kompetansen faktisk brukes, ikke bare at IT-folk bestemmer alene.
-Månedsrapporter til bystyret: Transparens og forventningsstyring. Erling rapporterer både på leveranser og på prosess/relasjoner. Dette normaliserer at teambygging tar tid.
-
-Kanaler: Chat (Slack/Teams) for raske spørsmål, e-post for dokumentering, møter for diskusjon. Erling må selv være tilgjengelig og synlig – ikke bare på møter, men også ute i teamet, snakkende med folk en-til-en. Dette bygger tillit og avdekker problemene tidlig.
-
-Sikring av at alle stemmer blir hørt:
-
-Innbyggerrepresentantene kan føle seg "utenfor" når fagfolk bruker teknisk jargon. Erling må oversette uten å forenkle: "IT-avdelingen sier vi må sikre datakryptering – det betyr innbyggernes informasjon er beskyttet og ikke tilgjengelig for uvedkommende." Dette sikrer at alle forstår hvorfor beslutninger tas.
-
-Videre bør Erling aktivt invitere innspill fra alle grupper, spesielt de som snakker mindre. Goffman (1978) viser at mennesker håndterer ansikt ulikt – noen snakker gjerne i møter, andre trenger en-til-en. Erling kan bruke både møter og individuelle samtaler for å sikre at alle blir hørt.
-
-Tilbakemeldingsmekanismer:
-
-Etabler anonyme spørreundersøkelser hver sprint: "Føler du deg inkludert? Er informasjonen klar? Hvordan går det psykologisk sett?" Dette gir Erling data på kommunikasjonens kvalitet, ikke bare hans oppfattelse.
-
-Effekten:
-
-Når alle forstår prosjektets mål, prioriteringer og hvorfor beslutninger tas, reduserer det misforståelser, spenninger og frustrasjon. Og som Edmondson (1999) viser: team med høy psykologisk sikkerhet – hvor folk tør å snakke, stille spørsmål og si ifra – både samarbeider bedre og leverer høyere kvalitet.
 
 ## Kilder
 
