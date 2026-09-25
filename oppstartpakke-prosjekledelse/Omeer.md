@@ -57,8 +57,7 @@ Jacobsen, D. I. (2016). Organisasjonsendring og endringsledelse. Fagbokforlaget.
 Jehn, K. A. (1995). A multimethod examination of the benefits and detriments of 
 intragroup conflict. Administrative Science Quarterly, 40(2), 256–282.
 
-Tannenbaum, S. I., & Salas, E. (2020). Teams, teams, everywhere. I Oxford handbook 
-of group and organizational learning (s. 1–20). Oxford University Press.
+Tannenbaum, S. I., & Salas, E. (2020). Teams, teams, everywhere. I L. Argote & J. M. Levine (Red.), The Oxford handbook of group and organizational learning (s. 1–20). Oxford University Press.
 
 Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 
 63(6), 384–399.
